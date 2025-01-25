@@ -17,8 +17,6 @@
       }
     }
   },
-
-"teacher_details": {
     "teacher2": {
       "personalDetails": {
         "name": "Teacher2",
@@ -33,5 +31,4 @@
       }
     }
   }
-}
 ```
