@@ -2,10 +2,10 @@
   "teacher_details": {
     "teacher1": {
       "personalDetails": {
-        "name": "Shayan Saha",
-        "phone": "9774162637",
-        "address": "Aralia, Lokenath Road, Agartala, Tripura (West)",
-        "qualification": "B.Tech. (Civil Engineering) from NIT Agartala"
+        "name": "Jenny",
+        "phone": "123456789",
+        "address": "TEST ADDRESS",
+        "qualification": "PhD in Physics"
       },
       "tuition_filter_details": {
         "classes": [
@@ -29,10 +29,10 @@
     },
     "teacher2": {
       "personalDetails": {
-        "name": "Tanmoy Debnath",
-        "phone": "7005638830",
-        "address": "Near Ramesh H.S. School",
-        "qualification": "B.A. Hons (History)"
+        "name": "Helly",
+        "phone": "70056333333338830",
+        "address": "Newowell, CA",
+        "qualification": "MA in History"
       },
       "tuition_filter_details": {
         "classes": [

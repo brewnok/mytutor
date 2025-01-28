@@ -5,6 +5,9 @@ import TeacherCard from './components/TeacherCard';
 import teacherData from './data/teacherData.json';
 import { SearchFilters, TeacherDetails } from './types';
 
+// Import the logo image
+import logo from './images/LOGO_MYTUTOR.png';
+
 function App() {
   const [searchResults, setSearchResults] = useState<TeacherDetails['teacher_details']>({});
   const [hasSearched, setHasSearched] = useState(false);
@@ -38,9 +41,9 @@ function App() {
     <div className="min-h-screen bg-gray-100">
       <header className="bg-white shadow">
         <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center space-x-2">
-            <GraduationCap className="h-8 w-8 text-blue-600" />
-            <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">MyTutor</h1>
+          <div className="flex justify-center items-center">
+            {/* Replace the heading with the logo image */}
+            <img src={logo} alt="MyTutor Logo" className="h-12" />
           </div>
         </div>
       </header>
