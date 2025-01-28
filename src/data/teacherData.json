@@ -1,0 +1,55 @@
+{
+  "teacher_details": {
+    "teacher1": {
+      "personalDetails": {
+        "name": "Shayan Saha",
+        "phone": "9774162637",
+        "address": "Aralia, Lokenath Road, Agartala, Tripura (West)",
+        "qualification": "B.Tech. (Civil Engineering) from NIT Agartala"
+      },
+      "tuition_filter_details": {
+        "classes": [
+          "IX",
+          "X"
+        ],
+        "subject_details": {
+          "stream": "Science",
+          "subjects": [
+            "Physics",
+            "Mathematics"
+            
+          ]
+        },
+        "image_path": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200&h=200",
+        "city": "Agartala",
+        "google_map": {
+          "qlink": "https://www.google.com/maps?q=22.6014858,88.4271611"
+        }
+      }
+    },
+    "teacher2": {
+      "personalDetails": {
+        "name": "Tanmoy Debnath",
+        "phone": "7005638830",
+        "address": "Near Ramesh H.S. School",
+        "qualification": "B.A. Hons (History)"
+      },
+      "tuition_filter_details": {
+        "classes": [
+          "X"
+        ],
+        "subject_details": {
+          "stream": "Arts",
+          "subjects": [
+            "History"
+          ]
+        },
+        "image_path": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&q=80&w=200&h=200",
+        "city": "Udaipur",
+        "google_map": {
+          "qlink": "https://www.google.com/maps?q=22.6014858,88.4271611"
+        }
+      }
+    }
+  }
+}

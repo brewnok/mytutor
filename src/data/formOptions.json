@@ -1,0 +1,18 @@
+{
+  "city": [
+    "Agartala",
+    "Udaipur",
+    "Dharmanagar"
+  ],
+  "class": [
+    "IX",
+    "X",
+    "XI",
+    "XII"
+  ],
+  "stream": {
+    "Science": ["Mathematics", "Physics", "Chemistry"],
+    "Arts": ["History", "Geography", "Bengali", "Political Science"],
+    "Commerce": ["Accounting", "Costing"]
+  }
+}
